@@ -7,5 +7,5 @@ module.exports = {
     appError,
     errorCatcher,
     globalErrorHandler,
-    response
+    Response: response
 }
