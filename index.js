@@ -1,11 +1,13 @@
-const appError = require('./src/appError');
+const AppError = require('./src/appError');
 const errorCatcher = require('./src/errorCatcher');
 const globalErrorHandler = require('./src/globalErrorHandler');
-const response = require('./src/response');
+const Response = require('./src/response');
 
 module.exports = {
-    appError,
+    AppError,
     errorCatcher,
     globalErrorHandler,
-    Response: response
+    Response,
+    appError: AppError,
+    response: Response
 }
