@@ -1,0 +1,19 @@
+{
+  "name": "@geekcorp/express-utils",
+  "version": "1.0.0",
+  "description": "a colection of commonly used express helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekyVaibhav-07/express-utils.git"
+  },
+  "author": "Vaibhav Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekyVaibhav-07/express-utils/issues"
+  },
+  "homepage": "https://github.com/geekyVaibhav-07/express-utils#readme"
+}
